@@ -1,3 +1,6 @@
+.DS_Store
+*.bak
+
 # Compiled Object files
 *.slo
 *.lo
